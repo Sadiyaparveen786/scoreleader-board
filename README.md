@@ -128,25 +128,3 @@ $ open dist/index.html
 
   <br>
 
-## Authors
-
-👤 **Clinton Mbonu**
-
-- Location: Nigeria
-- GitHub: [@clintonjosephs](https://github.com/clintonjosephs)
-- Twitter: [@clintonmbonu2](https://twitter.com/clintonmbonu2)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/clinton-mbonu)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/clintonjosephs/LeaderBoard/issues).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## 📝 License
-
-This project is [MIT](https://opensource.org/licenses/MIT) licensed.
