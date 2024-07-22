@@ -28,9 +28,7 @@ Additional description about the project and its features.
   - Jest(project testing)
   ```
 
-## Live Demo
 
-[Live Demo Link](https://clintonjosephs.github.io/LeaderBoard/)
 
 
 ## Getting Started
@@ -43,11 +41,7 @@ To get a local copy up and running follow these simple example steps.
   -  [Git](https://git-scm.com/downloads)
   -  [Node](https://nodejs.org/en/download/)
 ### Usage
-#### Clone this repository
 
-```bash
-$ https://github.com/clintonjosephs/LeaderBoard.git
-$ cd LEADERBOARD
 ```
 #### Run project
 
